@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/top/szzz666/ConvertToHTML.java;E:/文件/开发2/MCBEMotd/src/main/java/top/szzz666/InitConfig.java;E:/文件/开发2/MCBEMotd/src/main/java/top/szzz666/LogToFile.java;E:/文件/开发2/MCBEMotd/src/main/java/top/szzz666/Motd.java;E:/文件/开发2/MCBEMotd/src/main/java/top/szzz666/MotdData.java;E:/文件/开发2/MCBEMotd/src/main/java/top/szzz666/WebServer.java;E:/文件/开发2/MCBEMotd/pom.xml" />
+  </component>
+</project>

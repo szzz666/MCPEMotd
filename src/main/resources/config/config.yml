@@ -1,0 +1,17 @@
+# 配置文件设置
+# 是否启用HTTP服务器
+UseHttpServer: "true"
+# 是否启用HTTPS服务器
+UseHttpsServer: "true"
+# 密钥库的密码
+keystorePass: "pb024n22ksj0h"
+# 密钥库密码文件路径
+keystorePassFile: "config/keystore.jks"
+# HTTP服务器端口
+HttpServerPort: "8662"
+# HTTPS服务器端口
+HttpsServerPort: "8663"
+# 是否保存日志
+UseSaveLogs: "true"
+# 请求处理的路径
+ThePathOfTheRequest: "/motd"
